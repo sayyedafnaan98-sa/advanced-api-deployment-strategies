@@ -387,3 +387,4 @@ For issues with this infrastructure code:
 - [AWS CloudFormation Documentation](https://docs.aws.amazon.com/cloudformation/)
 - [AWS CDK Documentation](https://docs.aws.amazon.com/cdk/)
 - [Terraform AWS Provider Documentation](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
+<!-- auto-update 2026-05-10 15:23:38 -->
